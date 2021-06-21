@@ -27,6 +27,11 @@ namespace Ultimate_Predictor
 
         private async void bPredict_Click(object sender, EventArgs e)
         {
+            if(maskedTextBox1.Text == "")
+            {
+                MessageBox.Show("You don't enter a question!");
+                return;
+            }
             bPredict.Enabled = false;
             await Task.Run(() =>
             {
@@ -88,5 +93,6 @@ namespace Ultimate_Predictor
                 }
             }
         }
+
     }
 }
