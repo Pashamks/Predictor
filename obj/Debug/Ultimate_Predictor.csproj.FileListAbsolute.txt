@@ -1,0 +1,14 @@
+C:\Users\38095\Desktop\прога\Ultimate_Predictor\Ultimate_Predictor\bin\Debug\Ultimate_Predictor.exe.config
+C:\Users\38095\Desktop\прога\Ultimate_Predictor\Ultimate_Predictor\bin\Debug\Ultimate_Predictor.exe
+C:\Users\38095\Desktop\прога\Ultimate_Predictor\Ultimate_Predictor\bin\Debug\Ultimate_Predictor.pdb
+C:\Users\38095\Desktop\прога\Ultimate_Predictor\Ultimate_Predictor\obj\Debug\Ultimate_Predictor.csprojAssemblyReference.cache
+C:\Users\38095\Desktop\прога\Ultimate_Predictor\Ultimate_Predictor\obj\Debug\Ultimate_Predictor.Form1.resources
+C:\Users\38095\Desktop\прога\Ultimate_Predictor\Ultimate_Predictor\obj\Debug\Ultimate_Predictor.Properties.Resources.resources
+C:\Users\38095\Desktop\прога\Ultimate_Predictor\Ultimate_Predictor\obj\Debug\Ultimate_Predictor.csproj.GenerateResource.cache
+C:\Users\38095\Desktop\прога\Ultimate_Predictor\Ultimate_Predictor\obj\Debug\Ultimate_Predictor.csproj.CoreCompileInputs.cache
+C:\Users\38095\Desktop\прога\Ultimate_Predictor\Ultimate_Predictor\obj\Debug\Ultimate_Predictor.exe
+C:\Users\38095\Desktop\прога\Ultimate_Predictor\Ultimate_Predictor\obj\Debug\Ultimate_Predictor.pdb
+C:\Users\38095\Desktop\прога\Ultimate_Predictor\Ultimate_Predictor\bin\Debug\PredictionConfig.json
+C:\Users\38095\Desktop\прога\Ultimate_Predictor\Ultimate_Predictor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\38095\Desktop\прога\Ultimate_Predictor\Ultimate_Predictor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\38095\Desktop\прога\Ultimate_Predictor\Ultimate_Predictor\obj\Debug\Ultimate_Predictor.csproj.CopyComplete
